@@ -12,7 +12,7 @@ lines or squares, outputters will do that for you.
 Likewise, you can easily add an outputter for a format that doesn't have one
 yet, and it will work with all existing symbologies.
 
-For more information, check out [the Barby wiki] [wiki].
+For more information, check out [the Barby wiki](wiki).
 
 ### New require policy
 
